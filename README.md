@@ -9,7 +9,7 @@
 
 ***Usuario y Contraseña para ingresar***
 
-- *Admin: Usuario: correo1@mi.com.co | Contraseña: 123456*
+- *Admin: Usuario:   correo1@mi.com.co | Contraseña: 123456*
 - *Usuario: Usuario: correo2@mi.com.co | Contraseña: 123456*
 
 
